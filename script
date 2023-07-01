@@ -1,0 +1,10 @@
+local player = game.Players.LocalPlayer
+
+player.Premium.Value = true
+player.BikiniBottom.Value = true
+player.FNAF.Value = true
+player.Characters.Value = true
+player.GrinderControls.Value = true
+player.InGroup.Value = true
+player.NoCooldown.Value = true
+player.PowerTools.Value = true
